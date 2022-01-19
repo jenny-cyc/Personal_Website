@@ -1,0 +1,80 @@
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+p {
+  color: black;
+}
+
+/* Headings */
+
+.big-heading {
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.section-heading {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+/* Containers */
+
+.container-fluid-custom{
+  padding: 7% 15%;
+}
+
+.title_container-fluid{
+  padding: 1%;
+}
+
+/* Sections */
+
+.colored-section {
+  background-color: #ebebeb;
+
+  /* background-color: #cad2c5; */
+}
+
+.white-section {
+  background-color: #cad2c5;
+
+  /* background-color: #ebebeb; */
+}
+
+
+/* Features Section */
+
+#features {
+  position: relative;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+}
+
+.feature-box {
+  padding: 4.5%;
+}
+
+
+
+
+/* Footer Section */
+
+
+
+.social-icon {
+  margin: 20px 10px;
+  color: #67826E;
+}
+
+.social-icon:hover{
+  color: #799981;
+}
+
+
+footer a, footer p{
+  color: black;
+}
